@@ -25,7 +25,7 @@ app.use(
     origin: [
       "http://localhost:5173",
       "http://localhost:3000",
-      "https://insider-jobs-khushali.vercel.app",
+      "https://insider-jobs-ktg.vercel.app",
     ],
     credentials: true,
     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
