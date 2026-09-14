@@ -96,5 +96,5 @@ The application features authentication with Clerk, responsive styling with Tail
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/job-portal.git
-cd job-portal
+git clone https://github.com/Khushali-Alt/Insider-Jobs.git
+cd Insider-Jobs
